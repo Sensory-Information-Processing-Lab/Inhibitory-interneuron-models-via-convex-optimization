@@ -1,7 +1,7 @@
 # Inhibitory-interneuron-models-via-convex-optimization
 Code to produce the results in the paper "Modeling biologically realistic inhibitory interneurons in sensory coding models" in PLoS Computational Biology (2015) by Zhu and Rozell. Code by M. Zhu.
 
-Follow these steps to reproduce results from the paper "Modeling inhibitory interneurons in efficient sensory coding models", Mengchen Zhu and Christopher Rozell, PLoS CB 2015.
+Follow these steps to reproduce results:
 
 1. Decompose the recurrent matrix
    run_arpca.m
