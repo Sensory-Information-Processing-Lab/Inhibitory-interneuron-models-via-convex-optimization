@@ -1,0 +1,5 @@
+time_stamp,contrast,tau,delta,threshold,itr,thr_func,contrast_idx,basis_size,itr_2p,lca_pars,with_S,whitened,SVD_terms,plot_convergence,is_perturb,rng,perturb,multiplicative,inhib_dyn,inhibTauScale,tau,delta,threshold,itr,thr_func,basis_size,thr_2p,approx,S_threshold,gamma_rpca
+20150630T211720,more,1,0.1,0.5,100,soft,4,double,1000,dynamic_25,TRUE,whitened,110,FALSE,FALSE,100,0.005,FALSE,FALSE,1,10,1,0.1,25,soft,double,0.5,approx_RPCA,NaN,250_0_250
+20150630T211720,more,1,0.1,0.5,100,soft,4,double,1000,dynamic_25,TRUE,whitened,110,FALSE,FALSE,100,0.005,FALSE,FALSE,1,10,1,0.1,25,soft,double,0.5,approx_RPCA,NaN,250_0_250
+20150630T211720,more,1,0.1,0.5,100,soft,4,double,1000,dynamic_25,TRUE,whitened,110,FALSE,FALSE,100,0.005,FALSE,FALSE,1,10,1,0.1,25,soft,double,0.5,approx_RPCA,NaN,250_0_250
+20150630T212815,more,1,0.1,0.5,100,soft,4,double,1000,dynamic_100,TRUE,whitened,110,FALSE,FALSE,100,0.005,FALSE,TRUE,1,10,1,0.1,100,soft,double,0.5,approx_RPCA,NaN,250_0_250
